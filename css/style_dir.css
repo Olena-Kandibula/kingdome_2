@@ -1052,7 +1052,7 @@ div.inner {
 
 #resultsPoint {
 	padding-bottom: 100px;
-	/* background:transparent url(../img/fon_1.jpg) no-repeat center center fixed; */
+	background:transparent url(../img/fon_2.jpg) no-repeat center center fixed;
 	-webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -1655,7 +1655,7 @@ text-decoration: none;
 }
 /***** Parallax training today *****/
 #parallaxTraining {
-	background:transparent url(http://placehold.it/1920x1080) no-repeat center center fixed;
+	/* background:transparent url(../img/brand_5.jpg) no-repeat center center fixed; */
 	-webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
