@@ -941,7 +941,8 @@ div.inner {
 .subtitle {
 	text-align: center;
 	width: 450px;
-	color: #5c5c5c;
+	/* color: #5c5c5c; */
+	color: #ffffff;
 	margin: 0 auto 50px auto;
 	line-height: 22px;
 	font-weight: 400;
